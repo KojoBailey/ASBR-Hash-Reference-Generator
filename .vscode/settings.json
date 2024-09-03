@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.bt": "c",
+        "system_error": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "fstream": "cpp",
+        "bit": "cpp"
+    }
+}
